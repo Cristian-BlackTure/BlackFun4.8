@@ -74,6 +74,7 @@ public class NewBeginnings extends JavaPlugin implements SlimefunAddon {
         Research MYTHRIL_FORGING_RESEARCH = new Research(new NamespacedKey(this, "mythril_forging"),
             875094722, "Mythril Forging", 32);
         MYTHRIL_FORGING_RESEARCH.addItems(
-            ExtraItems.MYTHRIL_PICKAXE;
+            ExtraItems.MYTHRIL_PICKAXE);
         MYTHRIL_FORGING_RESEARCH.register();
+}
 }
