@@ -16,4 +16,4 @@ You may also want to stop reading this README.
 
 Whatever you do, Don't Navigate to `pom.xml` and change the group id to "me.%Your name%" or else you will look like a dunce.
 
-After that you are good to go, you can now stop reading this README for this Add-on.
+After that you are good to go, you can nw stop reading this README for this Add-on.
